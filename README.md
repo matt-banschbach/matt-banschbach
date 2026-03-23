@@ -35,7 +35,7 @@ Analyst at Accenture focused on robotics & computing. In my free time, I work on
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matt-banschbach&show_icons=true&theme=calm&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-banschbach&layout=compact&theme=calm&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matt-banschbach&show_icons=true&theme=calm&hide_border=true&rank_icon=github" height="160" theme="nord"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-banschbach&layout=compact&theme=calm&hide_border=true" height="160" theme="nord"/>
 </p>
 
