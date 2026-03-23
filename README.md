@@ -1,4 +1,4 @@
-# Hi, I'm Matt
+# Matt Banschbach
 
 Analyst at Accenture focused on robotics & computing. In my free time, I work on optimization engineering — building models and tools to solve complex real-world problems.
 
