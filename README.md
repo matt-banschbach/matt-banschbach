@@ -1,6 +1,6 @@
 # Matt Banschbach
 
-Analyst at Accenture focused on robotics & computing. In my free time, I work on optimization engineering — building models and tools to solve complex real-world problems.
+Analyst at Accenture focused on optimization, computing & robotics. I'm interested in constrained optimization, especially combinatorial and stochastic (and stochastic-combinatorial) problems. Also interested in quantum algorithms for intractable problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewbanschbach)
 
