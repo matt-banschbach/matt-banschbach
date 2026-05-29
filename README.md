@@ -29,13 +29,3 @@ Analyst at Accenture focused on robotics & computing. In my free time, I work on
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matt-banschbach&show_icons=true&theme=calm&hide_border=true&rank_icon=github" height="160" theme="nord"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-banschbach&layout=compact&theme=calm&hide_border=true" height="160" theme="nord"/>
-</p>
-
